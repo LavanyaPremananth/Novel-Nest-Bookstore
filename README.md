@@ -33,6 +33,4 @@ Follow these steps to set up and run the CRUD bookstore web application:
 - Ensure that you have Node.js installed on your machine before running the application.
 - The web application provides CRUD functionality for bookstore data, enabling users to manage books, authors, publishers, and more.
 
-If you encounter any issues or have questions, feel free to refer to the "DNW midterm report.pdf" for a detailed explanation or create an issue in the repository.
-
 Happy querying!
