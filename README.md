@@ -1,6 +1,7 @@
-# Uol Databases and Advanced Data Techniques CM3010 Midterm
+# NovelNest Bookstore Database
 
-This repository contains a CRUD (Create, Read, Update, Delete) bookstore web application implemented using JavaScript and Node.js. The application allows users to query bookstore data, including books, authors, publishers, etc. For a detailed explanation of how the application works, refer to the "DNW midterm report.pdf" file.
+This repository contains a CRUD (Create, Read, Update, Delete) bookstore web application implemented using JavaScript and Node.js. 
+The application allows users to query bookstore data, including books, authors, publishers, etc. 
 
 ## How to Run the Application
 
